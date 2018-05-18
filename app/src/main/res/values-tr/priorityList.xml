@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priorities">
+        <item>Olsa İyi Olur</item>
+        <item>Düşük Öncelik</item>
+        <item>Önemli</item>
+        <item>Yüksek Öncelik</item>
+        <item>Kritik</item>
+    </string-array>
+</resources>

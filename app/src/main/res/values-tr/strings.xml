@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaman Koçu</string>
+    <string name="empty"></string>
+    <string name="next">Sonraki</string>
+
+    <string name="sleepTitle">Uykunu Ayarla</string>
+    <string name="bedTime">Uyuma Zamanı</string>
+    <string name="wakeUpTime">Uyanma Zamanı</string>
+    <string name="defaultBedtime">23:00</string>
+    <string name="defaultWakeUptime">07:00</string>
+    <string name="hintBedtime">23:00 gibi bir uyuma zamanı girin</string>
+    <string name="hintWakeuptime">7:00 gibi bir uyanma zamanı girin</string>
+
+    <string name="customActivity">Başka bir aktivite</string>
+    <string name="add">Ekle</string>
+
+    <string name="workTitle">İşinizi Ayarlayın</string>
+    <string name="start">Başlangıç Zamanı</string>
+    <string name="end">Bitiş Zamanı</string>
+    <string name="defaultStarttime">09:00</string>
+    <string name="defaultEndtime">17:00</string>
+    <string name="hintStarttime">Bir Başlama Zamanı Girin</string>
+    <string name="hintEndtime">Bir Bitiş Zamanı Girin</string>
+    <string name="apply">Uygula</string>
+
+    <string name="editActivity">Aktiviteleri Düzenle</string>
+    <string name="resetActivity">Aktiviteleri Temizle</string>
+    <string name="language">Dil</string>
+    <string name="about">Uygulama Hakkında</string>
+    <string name="shareApp">Uygulamayı Paylaş</string>
+    <string name="extra">Extralar</string>
+    <string name="logout">Çıkış</string>
+    <string name="logoutSuccess">Çıkış Başarılı</string>
+    <string name="unregisteredUser">Kayıtsız Kullanıcı</string>
+    <string name="list">Aktivite Listesi</string>
+
+    <string name="shareText">Merhaba, Ben bu uygulamayı sevdim, sana da tavsiye ediyorum.</string>
+
+    <string name="areYouSure">Emin misin ?</string>
+    <string name="yesAnswer">Evet</string>
+    <string name="noAnswer">Hayır</string>
+
+    <string name="dontForgetActivity">Aktiviteni Unutma</string>
+    <string name="itsTimeTo">Zamanı Geldi: </string>
+    <string name="notificationChannel">Zaman Koçu Bildirimi</string>
+    <string name="notificationDescription">Aktiviteleri kullanıcıya hatırlatan bildirimler</string>
+    <string name="notifications">Bildirimler</string>
+
+    <string name="loginWithGoogle">Google ile Giriş</string>
+    <string name="continueWithoutLogin">Giriş Yapmadan Devam</string>
+    <string name="welcomeText">Zaman Koçuna Hoş Geldiniz.</string>
+    <string name="aboutApp">Bu uygulama zamanınızı efektif kullanmanıza yardımcı olacak</string>
+    <string name="errorLogin">Giriş Yaparken Hata ile Karşılaşıldı</string>
+    <string name="errorAuthentication">Giriş Başarısız</string>
+
+    <!-- About App Part -->
+    <string name="about_title">Zaman Koçu Hakkında</string>
+    <string name="about_creator">Hasan Alp Zengin tarafından oluşturuldu. Bilgisayar Mühendisliği Lisans Öğrencisi</string>
+    <string name="about_text">Bu uygulamayı boşa giden zamanımı engellemek için yarattım. Zaman önemlidir, boşa giden her saniye kaçırdığımız bir şansdır. Bu yüzden zamanımızı güzel yönetmeliyiz.</string>
+    <string name="about_quote">“Dün bitti. Yarın henüz gelmedi. Başlamak için sadece bugünümüz var.”</string>
+    <string name="about_quote_owner">Mother Teresa</string>
+
+    <string name="title_activity_add">Aktivite Ekle</string>
+    <string name="title_activity_result">Günlük Aktiviteler</string>
+    <string name="delete">Sil</string>
+
+    <string name="updateSuccess">Aktivite Başarılı Şekilde Güncellendi</string>
+    <string name="deleteSuccess">Aktivite Başarılı Şekilde Silindi</string>
+
+    <string name="change_language">Dili Değiştir</string>
+    <string name="turkish">Türkçe</string>
+    <string name="english">İngilizce</string>
+    <string name="language_changed">Dil Değiştirildi</string>
+
+    <string name="navigation_drawer_open">Navigasyon Çekmecesini Aç</string>
+    <string name="navigation_drawer_close">Navigasyon Çekmecesini Kapat</string>
+
+    <string name="action_settings">Ayarlar</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740100946537",
+    "firebase_url": "https://time-couch.firebaseio.com",
+    "project_id": "time-couch",
+    "storage_bucket": "time-couch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740100946537:android:cd2a8b34acd5945e",
+        "android_client_info": {
+          "package_name": "com.hasanalpzengin.lifeorganizator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740100946537-qbkqaq0bqpmgb49130kdjef84vv3el9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasanalpzengin.lifeorganizator",
+            "certificate_hash": "79a950efc596a51b48ca095cc73bdb7e0ba782d3"
+          }
+        },
+        {
+          "client_id": "740100946537-mvn5af2676hpqmive2ibl8o8hl2hifrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Izs1QalpoW2JPOy8vlnrTHHMKNe3TXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740100946537-mvn5af2676hpqmive2ibl8o8hl2hifrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

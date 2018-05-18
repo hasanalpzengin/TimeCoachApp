@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time Coach</string>
+    <string name="empty"></string>
+    <string name="next">Next</string>
+
+    <string name="sleepTitle">Set Your Sleep</string>
+    <string name="bedTime">Bedtime</string>
+    <string name="wakeUpTime">Wake-Up Time</string>
+    <string name="defaultBedtime">23:00</string>
+    <string name="defaultWakeUptime">07:00</string>
+    <string name="hintBedtime">Your bedtime Time like 23:00</string>
+    <string name="hintWakeuptime">Your wakeup Time like 7:00</string>
+
+    <string name="customActivity">Custom Activity</string>
+    <string name="add">Add</string>
+
+    <string name="workTitle">Set Your Work</string>
+    <string name="start">Start Time</string>
+    <string name="end">End Time</string>
+    <string name="defaultStarttime">23:00</string>
+    <string name="defaultEndtime">07:00</string>
+    <string name="hintStarttime">Enter Start Time</string>
+    <string name="hintEndtime">Enter End Time</string>
+    <string name="apply">Apply</string>
+
+    <string name="editActivity">Edit Activities</string>
+    <string name="resetActivity">Reset Activities</string>
+    <string name="language">Language</string>
+    <string name="about">About App</string>
+    <string name="shareApp">Share App</string>
+    <string name="extra">Extras</string>
+    <string name="logout">Logout</string>
+    <string name="logoutSuccess">Logout Success</string>
+    <string name="unregisteredUser">Unregistered User</string>
+    <string name="list">Activity List</string>
+
+    <string name="shareText">Hello, I like this app, advise you to try it.</string>
+
+    <string name="areYouSure">Are You Sure ?</string>
+    <string name="yesAnswer">Yes</string>
+    <string name="noAnswer">No</string>
+
+    <string name="dontForgetActivity">Don\'t Forget Your Activity</string>
+    <string name="itsTimeTo">It\'s time to </string>
+    <string name="notificationChannel">LifeOrganizatorNotification</string>
+    <string name="notificationDescription">Notifications for remind activities to user</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="loginWithGoogle">Login With Google</string>
+    <string name="continueWithoutLogin">Continue Without Login</string>
+    <string name="welcomeText">Welcome to Time Coach</string>
+    <string name="aboutApp">This app will set your time efficiency.</string>
+    <string name="errorLogin">Error While Login-in</string>
+    <string name="errorAuthentication">Authentication Failed.</string>
+
+    <!-- About App Part -->
+    <string name="about_title">About Time Coach</string>
+    <string name="about_creator">Created by Hasan Alp Zengin. Bachelor\'s Degree Computer Engineering Student</string>
+    <string name="about_text">This app created for organize my wasted time. Time is important, every second from our wasted time is the opportunities that we missed. So we need to organize time very well.</string>
+    <string name="about_quote">“Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.”</string>
+    <string name="about_quote_owner">Mother Teresa</string>
+
+    <string name="title_activity_add">Add Activity</string>
+    <string name="title_activity_result">Daily Activities</string>
+    <string name="delete">Delete</string>
+
+    <string name="updateSuccess">Activity Successfuly Updated</string>
+    <string name="deleteSuccess">Activity Successfuly Deleted</string>
+
+    <string name="change_language">Change Language</string>
+    <string name="turkish">Turkish</string>
+    <string name="english">English</string>
+    <string name="language_changed">Language Changed Successfuly</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,132 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hasanalpzengin.lifeorganizator.ConfigureSleep">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/night_background"
+        >
+        <Button
+            android:id="@+id/nextButton"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
+            android:layout_marginRight="16dp"
+            android:autoSizeTextType="uniform"
+            android:textAllCaps="false"
+            android:textSize="15sp"
+            android:drawableRight="@drawable/ic_arrow_forward_black_24dp"
+            android:text="@string/next"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="0dp"
+            android:layout_height="127dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:alpha="0.9"
+            android:scaleType="fitCenter"
+            android:src="@drawable/sleep"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/guideline2"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:autoSizeTextType="uniform"
+            android:textSize="30sp"
+            android:text="@string/sleepTitle"
+            android:textColor="@color/white_title"
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:autoSizeTextType="uniform"
+            android:layout_marginTop="32dp"
+            android:text="@string/bedTime"
+            android:textSize="20sp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:textColor="@color/white_title"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <EditText
+            android:id="@+id/bedTime"
+            style="@style/Widget.AppCompat.EditText"
+            android:layout_width="wrap_content"
+            android:textSize="17sp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="16dp"
+            android:autoSizeTextType="uniform"
+            android:layout_marginTop="8dp"
+            android:ems="10"
+            android:inputType="time"
+            android:text="@string/defaultBedtime"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/white_title"
+            app:layout_constraintEnd_toStartOf="@+id/guideline2"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <android.support.constraint.Guideline
+            android:id="@+id/guideline2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="231dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:textSize="20sp"
+            android:autoSizeTextType="uniform"
+            android:layout_marginTop="16dp"
+            android:text="@string/wakeUpTime"
+            android:textColor="@color/white_title"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/bedTime" />
+
+        <EditText
+            android:id="@+id/wakeupTime"
+            style="@style/Widget.AppCompat.EditText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:autoSizeTextType="uniform"
+            android:ems="10"
+            android:inputType="time"
+            android:text="@string/defaultWakeUptime"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="@color/white_title"
+            app:layout_constraintEnd_toStartOf="@+id/guideline2"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    </android.support.constraint.ConstraintLayout>
+</FrameLayout>

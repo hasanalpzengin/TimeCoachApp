@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_list"
+            android:icon="@mipmap/list"
+            android:title="@string/list"/>
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@mipmap/language"
+            android:title="@string/language" />
+        <item
+            android:id="@+id/nav_editActivity"
+            android:icon="@mipmap/manage"
+            android:title="@string/editActivity" />
+        <item
+            android:id="@+id/nav_resetActivities"
+            android:icon="@mipmap/delete"
+            android:title="@string/resetActivity" />
+    </group>
+
+    <item android:title="@string/extra">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/shareApp" />
+            <item
+                android:id="@+id/nav_aboutApp"
+                android:title="@string/about"
+                android:icon="@mipmap/about" />
+            <item
+                android:id="@+id/nav_logout"
+                android:title="@string/logout"
+                android:icon="@mipmap/logout"/>
+        </menu>
+    </item>
+
+</menu>

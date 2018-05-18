@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities">
+        <item>Home Time</item>
+        <item>Clean House</item>
+        <item>Tv</item>
+        <item>Cook</item>
+        <item>Wash Dishes</item>
+        <item>Eat</item>
+        <item>Sleep</item>
+        <item>Read</item>
+        <item>Shower</item>
+        <item>Brush Teeth</item>
+        <item>Diy</item>
+        <item>Family Time</item>
+        <item>Bath</item>
+        <item>Cafe</item>
+        <item>Iron</item>
+        <item>Garden</item>
+        <item>Laundry</item>
+        <item>Skin Care</item>
+        <item>Listen to Music</item>
+        <item>Video Games</item>
+        <item>Browse News</item>
+        <item>Bike</item>
+        <item>Boat</item>
+        <item>Bus</item>
+        <item>Call</item>
+        <item>Car</item>
+        <item>Computer</item>
+        <item>Dance</item>
+        <item>Date</item>
+        <item>Doctor Visit</item>
+        <item>Draw</item>
+        <item>Gym</item>
+        <item>Learn Language</item>
+        <item>Lesson</item>
+        <item>Meditation</item>
+        <item>Meeting</item>
+        <item>Movies</item>
+        <item>Paint</item>
+        <item>Party</item>
+        <item>Pet</item>
+        <item>Phone</item>
+        <item>Photography</item>
+        <item>Programming</item>
+        <item>Relax</item>
+        <item>Religion</item>
+        <item>Run</item>
+        <item>Shopping</item>
+        <item>Sing</item>
+        <item>Ski</item>
+        <item>Socializing</item>
+        <item>Spa</item>
+        <item>Sport</item>
+        <item>Study</item>
+        <item>Subway</item>
+        <item>Swim</item>
+        <item>Theater</item>
+        <item>Tourism</item>
+        <item>Train</item>
+        <item>Vehicle</item>
+        <item>Wait</item>
+        <item>Walk</item>
+        <item>Write</item>
+    </string-array>
+</resources>

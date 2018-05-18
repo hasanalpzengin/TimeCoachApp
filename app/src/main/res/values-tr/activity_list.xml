@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities">
+        <item>Ev Zamanı</item>
+        <item>Ev Temizliği</item>
+        <item>Tv</item>
+        <item>Yemek Yap</item>
+        <item>Bulaşıkları Yıka</item>
+        <item>Yemek</item>
+        <item>Uyu</item>
+        <item>Oku</item>
+        <item>Duş</item>
+        <item>Diş Fırçala</item>
+        <item>El İşi</item>
+        <item>Aile Zamanı</item>
+        <item>Banyo</item>
+        <item>Kahve</item>
+        <item>Ütü</item>
+        <item>Bahçe</item>
+        <item>Çamaşır</item>
+        <item>Cilt Bakımı</item>
+        <item>Müzik Dinle</item>
+        <item>Oyun Oyna</item>
+        <item>Haber Oku</item>
+        <item>Bisiklet</item>
+        <item>Gemi</item>
+        <item>Otobüs</item>
+        <item>Telefon Konuşması</item>
+        <item>Araba</item>
+        <item>Bilgisayar</item>
+        <item>Dans</item>
+        <item>Buluşma</item>
+        <item>Doktorla Görüş</item>
+        <item>Çizim Yap</item>
+        <item>Fitness</item>
+        <item>Dil Öğren</item>
+        <item>Ders</item>
+        <item>Meditasyon</item>
+        <item>Tanışma</item>
+        <item>Film</item>
+        <item>Boyama</item>
+        <item>Parti</item>
+        <item>Hayvan Zamanı</item>
+        <item>Telefon</item>
+        <item>Fotoğrafçılık</item>
+        <item>Programlama</item>
+        <item>Sakinleş</item>
+        <item>Din</item>
+        <item>Koş</item>
+        <item>Alışveriş</item>
+        <item>Şarkı</item>
+        <item>Kayak</item>
+        <item>Sosyalleş</item>
+        <item>Spa</item>
+        <item>Spor</item>
+        <item>Çalış</item>
+        <item>Metro</item>
+        <item>Yüz</item>
+        <item>Tiyatro</item>
+        <item>Turistik</item>
+        <item>Tren</item>
+        <item>Araç</item>
+        <item>Bekle</item>
+        <item>Yürü</item>
+        <item>Yaz</item>
+    </string-array>
+</resources>
