@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         showProgressDialog(100);
 
         final GoogleSignInOptions googleSignInOptions = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                .requestIdToken("740100946537-mvn5af2676hpqmive2ibl8o8hl2hifrv.apps.googleusercontent.com")
+                .requestIdToken("hide")
                 .requestEmail()
                 .build();
 
